@@ -1,0 +1,20 @@
+{
+  "name": "AiGamingX",
+  "description": "AiGamingX is a decentralized AI-powered gaming protocol that leverages machine learning to create adaptive gameplay, intelligent NPCs, and real-time NFT generation. It supports on-chain play-to-earn mechanics and integrates dynamic AI agents for immersive blockchain-based gaming.",
+  "categories": [
+    "AI::Gaming",
+    "NFT::GameAssets",
+    "Infrastructure::AIOracles"
+  ],
+  "addresses": {
+    "mainContract": "0xAaBbCcDdEeFf00112233445566778899AaBbCcDd",
+    "nftFactory": "0x11223344556677889900AABBCCDDEEFF00112233",
+    "rewardPool": "0x99887766554433221100FFEEDDCCBBAA99887766"
+  },
+  "links": {
+    "project": "https://aigamingx.io",
+    "twitter": "https://twitter.com/aigamingx",
+    "github": "https://github.com/aigamingx",
+    "docs": "https://docs.aigamingx.io"
+  }
+}
